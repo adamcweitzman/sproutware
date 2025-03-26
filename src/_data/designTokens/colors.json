@@ -3,6 +3,22 @@
   "description": "Hex color codes that can be shared, cross-platform. They can be converted at point of usage, such as HSL for web or CMYK for print. neutral and vibrant colors are converted to color palettes, fixed colors are kept as they are",
   "items": [
     {
+      "name": "Sprout Green", 
+      "value": "#7BA05B"
+    },
+    {
+      "name": "Soil Brown",
+      "value": "#5B4636"
+    },
+    {
+      "name": "Deckwood Tan",
+      "value": "#D8CBB5"
+    },
+    {
+      "name": "Sunbeam Gold",
+      "value": "#EFC87A"
+    },
+    {
       "name": "Gray 100",
       "value": "#f8f8f8"
     },
