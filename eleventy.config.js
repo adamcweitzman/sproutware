@@ -33,6 +33,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addLayoutAlias('page', 'page.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
   eleventyConfig.addLayoutAlias('tags', 'tags.njk');
+  eleventyConfig.addLayoutAlias('project', 'project.njk');
 
   //	---------------------  Collections
   eleventyConfig.addCollection('allPosts', getAllPosts);
