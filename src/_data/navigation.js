@@ -1,20 +1,24 @@
 export default {
   top: [
+    // {
+    //   text: 'About',
+    //   url: '/about/'
+    // },
+    // {
+    //   text: 'Docs',
+    //   url: '/get-started/'
+    // },
+    // {
+    //   text: 'Built with',
+    //   url: '/built-with/'
+    // },
+    // {
+    //   text: 'Blog',
+    //   url: '/blog/'
+    // },
     {
-      text: 'About',
-      url: '/about/'
-    },
-    {
-      text: 'Docs',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
-    },
-    {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'Projects',
+      url: '/projects/'
     }
   ],
   bottom: [
