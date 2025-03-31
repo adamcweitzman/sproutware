@@ -12,14 +12,15 @@ export default {
     //   text: 'Built with',
     //   url: '/built-with/'
     // },
-    // {
-    //   text: 'Blog',
-    //   url: '/blog/'
-    // },
+
     {
       text: 'Projects',
       url: '/projects/'
-    }
+    },
+    {
+      text: 'Contact',
+      url: '/contact/'
+    },
   ],
   bottom: [
     {
